@@ -32,6 +32,7 @@ for t in topics:
     #   "topic": content.text
     # }
 
+
     time.sleep(2)
     chrome_driver.get("https://www.wikipedia.org/")
 
